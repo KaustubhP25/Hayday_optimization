@@ -1,0 +1,20 @@
+{
+  "Apple": {
+    "time": 960,
+    "profit": 19.8,
+    "cost": 160,
+    "harvest": 3
+  },
+  "Raspberry": {
+    "time": 1080,
+    "profit": 21.6,
+    "cost": 220,
+    "harvest": 2
+  },
+  "Blackberry": {
+    "time": 1200,
+    "profit": 23.4,
+    "cost": 260,
+    "harvest": 2
+  }
+}

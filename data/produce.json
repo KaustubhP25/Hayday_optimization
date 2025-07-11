@@ -1,0 +1,97 @@
+{
+  "Bread": {
+    "inputs": { "Wheat": 3 },
+    "time": 15,
+    "profit": 21
+  },
+  "Cornbread": {
+    "inputs": { "Corn": 2, "Eggs": 1 },
+    "time": 30,
+    "profit": 72
+  },
+  "Cookie": {
+    "inputs": { "Wheat": 2, "Brown Sugar": 2, "Eggs": 2 },
+    "time": 60,
+    "profit": 144
+  },
+  "Cream": {
+    "inputs": { "Milk": 1 },
+    "time": 20,
+    "profit": 20
+  },
+  "Butter": {
+    "inputs": { "Milk": 2 },
+    "time": 30,
+    "profit": 82
+  },
+  "Cheese": {
+    "inputs": { "Milk": 3 },
+    "time": 60,
+    "profit": 122
+  },
+  "Brown Sugar": {
+    "inputs": { "Sugarcane": 1 },
+    "time": 20,
+    "profit": 32
+  },
+  "White Sugar": {
+    "inputs": { "Sugarcane": 2 },
+    "time": 40,
+    "profit": 50
+  },
+  "Syrup": {
+    "inputs": { "Sugarcane": 2 },
+    "time": 20,
+    "profit": 25
+  },
+  "Pancake": {
+    "inputs": { "Brown Sugar": 1, "Eggs": 2 },
+    "time": 30,
+    "profit": 108
+  },
+  "Bacon and Eggs": {
+    "inputs": { "Bacon": 2, "Eggs": 2 },
+    "time": 60,
+    "profit": 117
+  },
+  "Hamburger": {
+    "inputs": { "Bread": 1, "Bacon": 1 },
+    "time": 60,
+    "profit": 117
+  },
+  "Carrot Pie": {
+    "inputs": { "Carrot": 3, "Eggs": 1, "Wheat": 2 },
+    "time": 60,
+    "profit": 82
+  },
+  "Pumpkin Pie": {
+    "inputs": { "Pumpkin": 3, "Eggs": 1, "Wheat": 2 },
+    "time": 102,
+    "profit": 158
+  },
+  "Bacon Pie": {
+    "inputs": { "Bacon": 2, "Eggs": 4 },
+    "time": 102,
+    "profit": 219
+  },
+  "Popcorn": {
+    "inputs": { "Corn": 2 },
+    "time": 30,
+    "profit": 32
+  },
+  "Buttered Popcorn": {
+    "inputs": { "Popcorn": 1, "Butter": 1 },
+    "time": 45,
+    "profit": 104
+  },
+  "Sweater": {
+    "inputs": { "Wool": 3 },
+    "time": 120,
+    "profit": 180
+  },
+  "Cotton Fabric": {
+    "inputs": { "Cotton": 3 },
+    "time": 120,
+    "profit": 108
+  }
+}

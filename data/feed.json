@@ -1,0 +1,27 @@
+{
+  "Chicken Feed": {
+    "inputs": { "Wheat": 2, "Corn": 1 },
+    "time": 5,
+    "profit": 0
+  },
+  "Cow Feed": {
+    "inputs": { "Corn": 2, "Soybean": 1 },
+    "time": 10,
+    "profit": 0
+  },
+  "Pig Feed": {
+    "inputs": { "Carrot": 2, "Soybean": 1 },
+    "time": 20,
+    "profit": 0
+  },
+  "Sheep Feed": {
+    "inputs": { "Wheat": 3, "Soybean": 1 },
+    "time": 20,
+    "profit": 0
+  },
+  "Goat Feed": {
+    "inputs": { "Wheat": 2, "Carrot": 2 },
+    "time": 15,
+    "profit": 0
+  }
+}

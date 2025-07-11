@@ -1,0 +1,152 @@
+{
+  "1": {
+    "crops": ["Wheat"],
+    "animals": ["Chicken coop"],
+    "products": ["Egg"]
+  },
+  "2": {
+    "crops": ["Corn"],
+    "animals": [],
+    "products": ["Bread"]
+  },
+  "3": {
+    "crops": [],
+    "animals": [],
+    "products": []
+  },
+  "4": {
+    "crops": [],
+    "animals": [],
+    "products": []
+  },
+  "5": {
+    "crops": ["Soybean"],
+    "animals": [],
+    "products": []
+  },
+  "6": {
+    "crops": [],
+    "animals": ["Cow pasture"],
+    "products": ["Milk", "Cream"]
+  },
+  "7": {
+    "crops": ["Sugarcane"],
+    "animals": [],
+    "products": ["Corn Bread", "Brown Sugar"]
+  },
+  "8": {
+    "crops": [],
+    "animals": [],
+    "products": ["Popcorn"]
+  },
+  "9": {
+    "crops": ["Carrot"],
+    "animals": [],
+    "products": ["Butter", "Pancake"]
+  },
+  "10": {
+    "crops": [],
+    "animals": ["Pig Pen"],
+    "products": ["Bacon", "Pig Feed", "Cookie"]
+  },
+  "11": {
+    "crops": [],
+    "animals": [],
+    "products": ["Bacon and Eggs"]
+  },
+  "12": {
+    "crops": [],
+    "animals": ["Chicken coop"],
+    "products": ["Cheese"]
+  },
+  "13": {
+    "crops": ["Indigo"],
+    "animals": [],
+    "products": ["White Sugar"]
+  },
+  "14": {
+    "crops": [],
+    "animals": [],
+    "products": ["Carrot Pie"]
+  },
+  "15": {
+    "crops": ["Pumpkin", "Apple"],
+    "animals": ["Cow pasture"],
+    "products": ["Pumpkin Pie"]
+  },
+  "16": {
+    "crops": [],
+    "animals": ["Sheep Pasture"],
+    "products": ["Wool", "Sheep Feed", "Buttered Popcorn"]
+  },
+  "17": {
+    "crops": [],
+    "animals": [],
+    "products": ["Sweater"]
+  },
+  "18": {
+    "crops": ["Cotton"],
+    "animals": ["Pig Pen"],
+    "products": ["Bacon Pie", "Syrup", "Cotton Fabric", "Hamburger"]
+  },
+  "19": {
+    "crops": [],
+    "animals": [],
+    "products": ["Raspberry Muffin", "Cotton Shirt"]
+  },
+  "20": {
+    "crops": [],
+    "animals": [],
+    "products": ["Carrot Cake"]
+  },
+  "21": {
+    "crops": ["Cherry"],
+    "animals": [],
+    "products": []
+  },
+  "22": {
+    "crops": [],
+    "animals": ["Chicken coop"],
+    "products": ["Cream Cake", "Red Berry Cake"]
+  },
+  "23": {
+    "crops": [],
+    "animals": [],
+    "products": ["Cheesecake"]
+  },
+  "24": {
+    "crops": ["Chili Pepper"],
+    "animals": [],
+    "products": ["Chili Popcorn"]
+  },
+  "25": {
+    "crops": [],
+    "animals": [],
+    "products": []
+  },
+  "26": {
+    "crops": ["Blackberry"],
+    "animals": ["Sheep Pasture"],
+    "products": ["Blackberry Muffin", "Carrot Juice"]
+  },
+  "27": {
+    "crops": [],
+    "animals": ["Horse Stable", "Cow pasture"],
+    "products": ["Fish Burger", "Fish Fillet"]
+  },
+  "28": {
+    "crops": [],
+    "animals": ["Retriever", "Pinscher", "Dog House"],
+    "products": ["Apple Pie", "Fish Pie", "Apple Juice"]
+  },
+  "29": {
+    "crops": [],
+    "animals": ["Cat House"],
+    "products": ["Vanilla Ice Cream"]
+  },
+  "30": {
+    "crops": ["Tomato", "Blueberry"],
+    "animals": [],
+    "products": ["Roasted Tomatoes", "Cherry Juice"]
+  }
+}

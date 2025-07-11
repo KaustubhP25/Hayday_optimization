@@ -1,0 +1,42 @@
+{
+  "Bakery": {
+    "slots": 3,
+    "products": ["Bread", "Cornbread", "Cookie"]
+  },
+  "Dairy": {
+    "slots": 3,
+    "products": ["Cream", "Butter", "Cheese"]
+  },
+  "Sugar Mill": {
+    "slots": 3,
+    "products": ["Brown Sugar", "White Sugar", "Syrup"]
+  },
+  "BBQ Grill": {
+    "slots": 3,
+    "products": ["Pancake", "Bacon and Eggs", "Hamburger"]
+  },
+  "Pie Oven": {
+    "slots": 3,
+    "products": ["Carrot Pie", "Pumpkin Pie", "Bacon Pie"]
+  },
+  "Popcorn Pot": {
+    "slots": 3,
+    "products": ["Popcorn", "Buttered Popcorn", "Chili Popcorn"]
+  },
+  "Loom": {
+    "slots": 3,
+    "products": ["Sweater", "Cotton Fabric","Blue Woolly Hat","Blue Sweater"]
+  },
+  "Sewing Machine": {
+    "slots": 3,
+    "products": ["Cotton Shirt","Wooly Pant", "Violet Dress"]
+  },
+  "Feed Mill": {
+    "slots": 3,
+    "products": ["Chicken Feed", "Cow Feed", "Pig Feed", "Sheep Feed"]
+  },
+  "Feed Mill 2": {
+    "slots": 3,
+    "products": ["Chicken Feed", "Cow Feed", "Pig Feed", "Sheep Feed"]
+  }
+}

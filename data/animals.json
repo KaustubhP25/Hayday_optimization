@@ -1,0 +1,21 @@
+{
+  "Chicken": {
+    "produces": "Egg",
+    "time": 20
+
+  },
+  "Cow": {
+    "produces": "Milk",
+    "time": 60
+
+  },
+  "Pig": {
+    "produces": "Bacon",
+    "time": 240
+
+  },
+  "Sheep": {
+    "produces": "Wool",
+    "time": 240
+  }
+}
